@@ -1,9 +1,9 @@
-lasagne
-pizza
-ice cream
-ramen
-mashed potatoes and sausage
-spaghetti cacio e pepe
-kebab with jackfruit
-fries with steak
+Lasagne
+Pizza
+Ice cream
+Ramen
+Mashed potatoes and sausage
+Spaghetti cacio e pepe
+Kebab with jackfruit
+Fries with steak
 
